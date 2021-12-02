@@ -7,3 +7,4 @@ GroupAdd, PoEexe, ahk_exe PathOfExile_x64Steam.exe
 #NoEnv
 #Warn
 #Persistent
+Menu, Tray, Icon, %A_WorkingDir%\dep\Chronicle_of_Atzoatl.png ,, 1
